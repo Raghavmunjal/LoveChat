@@ -18,6 +18,7 @@
 		AA3FA8C42C208EC700D7CB2B /* RegisterController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA3FA8C32C208EC700D7CB2B /* RegisterController.swift */; };
 		AA3FA8C62C208EE100D7CB2B /* ChatController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA3FA8C52C208EE100D7CB2B /* ChatController.swift */; };
 		AA3FA8C82C2099B400D7CB2B /* Constant.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA3FA8C72C2099B400D7CB2B /* Constant.swift */; };
+		AABC8F082C20B64C00D49E93 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = AABC8F072C20B64C00D49E93 /* GoogleService-Info.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -35,6 +36,7 @@
 		AA3FA8C32C208EC700D7CB2B /* RegisterController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RegisterController.swift; sourceTree = "<group>"; };
 		AA3FA8C52C208EE100D7CB2B /* ChatController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChatController.swift; sourceTree = "<group>"; };
 		AA3FA8C72C2099B400D7CB2B /* Constant.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constant.swift; sourceTree = "<group>"; };
+		AABC8F072C20B64C00D49E93 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = "GoogleService-Info.plist"; path = "../../../Downloads/GoogleService-Info.plist"; sourceTree = "<group>"; };
 		EF9378D62E679EA2B80D5505 /* Pods_LoveChat.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_LoveChat.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
@@ -96,6 +98,7 @@
 				AA3FA8B02C208E5D00D7CB2B /* Assets.xcassets */,
 				AA3FA8B22C208E5D00D7CB2B /* LaunchScreen.storyboard */,
 				AA3FA8B52C208E5D00D7CB2B /* Info.plist */,
+				AABC8F072C20B64C00D49E93 /* GoogleService-Info.plist */,
 				AA3FA8C72C2099B400D7CB2B /* Constant.swift */,
 			);
 			path = LoveChat;
@@ -188,6 +191,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				AA3FA8B42C208E5D00D7CB2B /* LaunchScreen.storyboard in Resources */,
+				AABC8F082C20B64C00D49E93 /* GoogleService-Info.plist in Resources */,
 				AA3FA8B12C208E5D00D7CB2B /* Assets.xcassets in Resources */,
 				AA3FA8AF2C208E5C00D7CB2B /* Main.storyboard in Resources */,
 			);

@@ -12,6 +12,7 @@ struct Constant {
     static let loginToChatSegue = "LoginToChat"
     static let welcomeToRegisterSegue = "WelcomeToRegister"
     static let welcomeToLoginSegue = "WelcomeToLogin"
+    static let appTitle = "⚡️LoveChat"
     
     struct BrandColors {
         static let purple = "BrandPurple"

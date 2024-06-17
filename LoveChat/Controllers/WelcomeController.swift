@@ -13,8 +13,7 @@ class WelcomeController: UIViewController {
     @IBOutlet var titleLabel: CLTypingLabel!
     override func viewDidLoad() {
         super.viewDidLoad()
-        titleLabel.text = "⚡️LoveChat..."
+        titleLabel.text = "\(Constant.appTitle)..."
     }
-
-
+    
 }
